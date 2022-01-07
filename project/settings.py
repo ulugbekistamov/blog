@@ -16,7 +16,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
-SECRET_KEY = 'v1$#u%h+xamjax#0chkpgxqw78coa5#2)0oyd2un3-s4fq4v%+'
 
 DEBUG = True
 
